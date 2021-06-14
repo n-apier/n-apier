@@ -1,7 +1,6 @@
 🤠👋 Hi, I’m @n-apier
 
-🌱 I’m studying to be a Full-Stack Engineer & part-time game developer!
-    I’m currently learning...
+ I’m currently learning...
     - PYTHON / JAVASCRIPT / RUBY
 - 👀 I’m interested in robotics. 
 - This will be updated soon :P
