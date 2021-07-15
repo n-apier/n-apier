@@ -1,9 +1,5 @@
 🤠👋 Hi, I’m @n-apier
 
- I’m currently learning...
-    - PYTHON / JAVASCRIPT / RUBY
-- 👀 I’m interested in robotics. 
-- This will be updated soon :P
 
 <!---
 n-apier/n-apier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
